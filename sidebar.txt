@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[isc:home|Door43 (isc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-isc|d43-isc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-isc/archive/master.zip|d43-isc.zip]]
+
+**Recent Changes**
+{{changes>ns = isc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/isc|Ethnologue data]]
+
